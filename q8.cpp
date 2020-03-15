@@ -1,6 +1,5 @@
 //How do you remove duplicates from an array in place?
 #include <iostream>
-#include <unordered_set>
 using namespace std;
 int main()
 {
